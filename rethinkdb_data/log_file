@@ -1,0 +1,16 @@
+2016-06-16T17:00:02.066567000 0.391324s notice: Recursively removing directory /Users/justintuttle/Code/justintuttle/14-pp-rethink/rethinkdb_data/tmp
+2016-06-16T17:00:02.074909000 0.399672s notice: Initializing directory /Users/justintuttle/Code/justintuttle/14-pp-rethink/rethinkdb_data
+2016-06-16T17:00:02.075054000 0.399810s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/justintuttle/Code/justintuttle/14-pp-rethink/rethinkdb_data' did not already exist or is empty.)
+2016-06-16T17:00:02.075087000 0.399843s notice: Running rethinkdb 2.3.2 (CLANG 7.3.0 (clang-703.0.29))...
+2016-06-16T17:00:02.087023000 0.411780s notice: Running on Darwin 15.5.0 x86_64
+2016-06-16T17:00:02.087079000 0.411836s notice: Loading data from directory /Users/justintuttle/Code/justintuttle/14-pp-rethink/rethinkdb_data
+2016-06-16T17:00:02.174556000 0.499312s info: Automatically using cache size of 396 MB
+2016-06-16T17:00:02.176057000 0.500814s notice: Listening for intracluster connections on port 29015
+2016-06-16T17:00:02.178554000 0.503310s notice: Listening for client driver connections on port 28015
+2016-06-16T17:00:02.178658000 0.503414s notice: Listening for administrative HTTP connections on port 8080
+2016-06-16T17:00:02.178666000 0.503422s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2016-06-16T17:00:02.178671000 0.503427s notice: Listening on driver addresses: 127.0.0.1, ::1
+2016-06-16T17:00:02.178674000 0.503430s notice: Listening on http addresses: 127.0.0.1, ::1
+2016-06-16T17:00:02.178678000 0.503434s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-06-16T17:00:02.178682000 0.503438s notice: Server ready, "MAC_local_gdg" faef3b9f-6ebb-42ca-a9b4-3f432b68b04f
+2016-06-16T17:00:02.704082000 1.028908s notice: A newer version of the RethinkDB server is available: 2.3.4. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.

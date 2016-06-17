@@ -1,13 +1,13 @@
 {
-  "name": "lovli.js",
-  "version": "0.7.7",
-  "license": "MIT",
-  "description": "A boilerplate for developing react+redux applications with rethinkdb/horizon as realtime database and express for the server.",
-  "repository": "https://github.com/flipace/lovli.js",
+  "name": "pp-rethink",
+  "version": "",
+  "license": "",
+  "description": "",
+  "repository": "https://github.com/reddhouse/pp-rethink.git",
   "contributors": [
     {
-      "name": "Patrick Neschkudla",
-      "email": "neschkudla@gmail.com"
+      "name": "Justin Tuttle",
+      "email": "reddhouse@gmail.com"
     }
   ],
   "devDependencies": {
